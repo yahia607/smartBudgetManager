@@ -1,9 +1,0 @@
-Budget Management System 
-
-junuary 1:
-budget :1500$
-ID:2026001
-
-april 4:
-budget :18800$
-ID:2026002
